@@ -5,6 +5,10 @@ const reverseString = function(string) {
     };
 
     return reverseString;
+
+    //Answer solution :
+    //return string.split('').reverse().join('');
+
 };
 
 // Do not edit below this line
